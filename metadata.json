@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ইসলামিক কথা (Islamic Kotha)",
+  "description": "একটি রিয়েল-টাইম এআই ভয়েস চ্যাটবট যা কুরআন ও হাদিসের আলোকে সম্মানজনক এবং সঠিক ইসলামিক নির্দেশনা প্রদান করে।",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
